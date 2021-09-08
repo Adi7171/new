@@ -1,1 +1,1 @@
-print("py")
+print(2+3)
